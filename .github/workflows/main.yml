@@ -1,4 +1,4 @@
-name: CI/CD Pipeline
+name: DOE522_FA1 CI/CD Pipeline
 
 on:
   push:
